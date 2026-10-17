@@ -2,19 +2,20 @@
 
 **by papa Pedro con cariño**
 
-Juego familiar de arepas venezolanas con **20 recetas**, **54 ingredientes**, **Arepa Loca de tu familia** y colección local.
+Juego familiar venezolano con 20 recetas, 54 ingredientes y modo **Arepa Loca de tu familia**. Colecciona arepas, gana puntos y recibe ayuda por voz.
 
-### Música y voz (nueva versión)
+## Música nueva
 
-- Se retiró completamente la música sintetizada anterior.
-- La melodía infantil instrumental **«Arepita de manteca»** es una interpretación creada para el juego con guitarra, flauta y percusión suave; no se ha copiado ni incorporado una grabación comercial de ningún artista. La ronda venezolana tradicional puede tener distintas melodías según la familia.
-- Música y narración en español se **intentan reproducir en cuanto se abre el juego**. iOS/iPadOS y algunos navegadores móviles requieren un toque del usuario: el **primer toque en cualquier lugar del juego** activa el sonido, sin un paso extra.
-- La música baja de volumen mientras habla la voz instructora.
-- Desde ⚙️ Ajustes puedes encender/apagar voz o música por separado y ajustar el volumen.
-- Cada receta se guarda al completarse, muestra los puntos y en 9 segundos empieza la siguiente.
+La versión actual incluye las cinco **interpretaciones instrumentales propias** elegidas para el juego:
 
-### Jugar
+1. Los pollitos dicen
+2. Un elefante se balanceaba
+3. Cucú, cantaba la rana
+4. Arroz con leche
+5. Tengo una muñeca vestida de azul
 
-https://pedrocybersecurity.github.io/ArepaFiesta/
+Todas suenan en secuencia, sin percusión repetitiva ni el antiguo tic tic. Se puede cambiar de canción en **⚙️ Ajustes → ⏭️ Cambiar canción**. La música baja cuando habla la guía.
 
-La colección y los puntos permanecen en el navegador de cada dispositivo, no se sincronizan en otros.
+Por las restricciones de iOS y Android, la app intenta reproducir automáticamente la música y la voz al abrir, pero algunos dispositivos requieren un primer toque. Los puntos y la colección se guardan en el navegador del dispositivo, no se sincronizan.
+
+**Jugar:** https://pedrocybersecurity.github.io/ArepaFiesta/
