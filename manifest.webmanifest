@@ -1,0 +1,25 @@
+{
+  "name": "Mi arepita · by papa Pedro con cariño",
+  "short_name": "Mi arepita",
+  "description": "Un juego familiar de preparar arepas venezolanas.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff3dc",
+  "theme_color": "#fff3dc",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-256.webp",
+      "sizes": "256x256",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
